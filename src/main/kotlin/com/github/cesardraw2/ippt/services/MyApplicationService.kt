@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.cesardraw2.ippt.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.cesardraw2.ippt.MyBundle
 
 class MyApplicationService {
 
